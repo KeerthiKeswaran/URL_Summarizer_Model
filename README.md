@@ -2,6 +2,11 @@
 
 URL Summarizer AI is a web-based tool that extracts and summarizes content from any webpage using FastAPI, BeautifulSoup, and a fine-tuned T5-small model deployed on Modelbit Cloud. The project allows users to input a URL, scrape its content, preprocess the text, and generate a concise summary.  
 
+
+##System Architecture:
+
+![Architecture](https://github.com/KeerthiKeswaran/URL_Summarizer_Model/blob/main/Architecture.png?raw=true)
+
 The system consists of three main components:  
 
 1. **Frontend (React)** - Users input a URL and receive the summarized content.  
